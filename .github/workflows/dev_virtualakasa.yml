@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'virtualakasa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85E9D8CAF0C34659BF6C5BF49AD31F1A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9178F1843604A529BBAD4C42ED0D9A0 }}
           package: .
